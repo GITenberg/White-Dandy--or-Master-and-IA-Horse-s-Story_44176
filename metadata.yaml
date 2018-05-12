@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42621'
     url: http://www.gutenberg.org/2009/agents/42621
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44176#White-Dandy--or-Master-and-IA-Horse-s-Story
 gutenberg_issued: '2013-11-14'
 gutenberg_type: Text
 identifiers:
