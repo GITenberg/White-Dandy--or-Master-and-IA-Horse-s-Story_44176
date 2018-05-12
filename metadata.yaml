@@ -1,0 +1,24 @@
+_repo: White-Dandy--or-Master-and-IA-Horse-s-Story_44176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Melville, Velma Caldwell
+    gutenberg_agent_id: '42621'
+    url: http://www.gutenberg.org/2009/agents/42621
+description: ''
+gutenberg_issued: '2013-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horses -- Fiction'
+- !lcc 'PS'
+title: 'White Dandy; or, Master and I: A Horse''s Story'
+url: http://www.gutenberg.org/ebooks/44176
